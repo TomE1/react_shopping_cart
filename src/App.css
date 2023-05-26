@@ -1,5 +1,7 @@
-*{background-color: #80aebb;
-color: beige;}
+* {
+  background-color: #80aebb;
+  /* color: rgb(6, 6, 6); */
+}
 
 .App {
   text-align: center;
